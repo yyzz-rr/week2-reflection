@@ -1,0 +1,9 @@
+mkdir code
+cd code
+touch eda.ipynb
+
+git status
+git add /Users/zhangyuesybil1125/Desktop/week2data.ipynb
+git commit -m "Added basic EDA analysis and visualizations"
+git push origin main
+
